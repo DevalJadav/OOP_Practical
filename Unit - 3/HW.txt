@@ -1,0 +1,2 @@
+1). Create a class name student with string variable name and int variable roll no. assign the value of roll no is 2 and name is John by creating and object of student class.
+2). class emp have 3 variable emp id , emp name and city take 1 method getData having 3 argument by creating a two object of emp class. add display method to print all the data.

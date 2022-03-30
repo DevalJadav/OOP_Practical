@@ -1,0 +1,1 @@
+1. parent class name is first child class name is second String Fname, void input1 (in first class) Lname, void input2, show method (in second class)
